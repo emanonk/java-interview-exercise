@@ -65,4 +65,4 @@ The actual implementation of those may pull data from a database, file, or HTTP 
 #### When
 A customer books a trip.
 #### Then
-The trip expense is 138.60 EUR.
+The trip expense is 175.2 EUR.
