@@ -67,3 +67,19 @@ A customer books a trip.
 #### Then
 The trip expense is 175.2 EUR.
 
+## Exercise completion guide
+Please clone the current repository and create a private repo under your account.
+Then please add this emanonk as a collaborator to your project/repo.
+
+## Deliverables
+I know how difficult is to find time to complete this exercise, so to make your life easier, you will decide how much time you will spend on this exercise.
+This is why its important to include a readme file in your repo, and explain which areas you want to focus. 
+For example, you can provide 1 unit test as an example, and then you can write down the test cases you would like to cover without the implementation.
+If you manage to implement 1 test, then I know you write the others.
+
+### Extra tips
+Think as you are the interviewer, what are the things that you wish to see from the candidate? 
+- It is not important to see 20 unit test implementation, it is important though to see the way of thinking and the test cases.
+- Focus only on what is requested in the exercise. If you want to demonstrate more than that, be careful and cover everything that comes with that.
+- Read the instructions more that one times.
+- Feel free to use chatgpt or copilot, but please mention it in the readme and explain how you used it.
